@@ -1,0 +1,2 @@
+09afe3ae646201a37c6afdce4ddae592720b91a6d2caee2e1a0433a6b105bf5a  /mnt/data/cockroachdb_ansible_runbook.zip
+975c3c4d54351a21aef81e8b14101ca7f6c7f514c1d335a85d4feda69487b4ca  /mnt/data/CockroachDB_Ansible_Complete_Setup_Runbook.docx
