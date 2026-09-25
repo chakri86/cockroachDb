@@ -1,0 +1,22 @@
+# Downloaded Terraform providers and modules
+**/.terraform/*
+
+# Terraform state and saved plans
+*.tfstate
+*.tfstate.*
+*.tfplan
+tfplan
+
+# Crash logs
+crash.log
+crash.*.log
+
+# Local variable values
+*.tfvars
+*.tfvars.json
+
+# Environment files and private keys
+.env
+.env.*
+*.pem
+*.key
